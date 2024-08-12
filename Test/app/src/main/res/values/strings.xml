@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="send_message">Send</string>
+    <string name="receive_message">Receive</string>
+</resources>
